@@ -1,0 +1,60 @@
+table{
+    margin: 0px auto;
+    text-align: center;
+    align-items: center;
+    
+    
+    
+    
+}
+
+table, tr, td{
+border: 1px solid black;
+border-radius: 20px;
+}
+table,tr,td{
+    border: 5px solid black;
+    border-collapse: collapse;
+    background: white;
+    
+    
+
+}
+tr{
+    width: 450px;
+    height: 140px;
+   
+    
+}
+td{
+    width: 140px;
+    height: 140px;
+    
+    
+
+}
+td img{
+    width: 130px;
+    height: 130px;
+}
+#h1{
+    font-size: 45px;
+}
+h1{
+    font-size: 50px;
+    color: chartreuse;
+    background-color: black;
+    
+}
+
+#p{
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+h2{
+
+    background-color: black;
+    color: white;
+}
